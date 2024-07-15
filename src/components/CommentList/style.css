@@ -1,0 +1,13 @@
+
+.comment__list {
+    width: 35%;
+    min-width: 380px;
+    margin: 0 auto;
+}
+
+.container__list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 10px 0 50px 0;
+}
